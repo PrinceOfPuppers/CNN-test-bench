@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+training-data.npy
+training-meta-data.npy
+unused
